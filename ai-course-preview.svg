@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">AI Course Scheduling Tool Placeholder Preview</title>
+  <desc id="desc">Placeholder image preview for AI Course Scheduling Tool project.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f2a52"/>
+      <stop offset="55%" stop-color="#2f3f8d"/>
+      <stop offset="100%" stop-color="#4f8dff"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#dfe7ff" stop-opacity="0.92"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="1340" cy="180" r="260" fill="#8a3ffc" fill-opacity="0.28"/>
+  <circle cx="240" cy="860" r="220" fill="#6a5dff" fill-opacity="0.22"/>
+
+  <rect x="140" y="145" width="1320" height="710" rx="34" fill="url(#panel)"/>
+  <rect x="190" y="215" width="540" height="56" rx="14" fill="#e7ecff"/>
+  <rect x="190" y="302" width="1220" height="26" rx="12" fill="#d4dcff"/>
+  <rect x="190" y="356" width="1020" height="26" rx="12" fill="#d4dcff"/>
+  <rect x="190" y="410" width="860" height="26" rx="12" fill="#d4dcff"/>
+
+  <rect x="190" y="500" width="1220" height="270" rx="20" fill="#f7f9ff"/>
+  <g fill="#7a88c8">
+    <rect x="230" y="552" width="165" height="34" rx="9"/>
+    <rect x="412" y="552" width="165" height="34" rx="9"/>
+    <rect x="594" y="552" width="165" height="34" rx="9"/>
+    <rect x="776" y="552" width="165" height="34" rx="9"/>
+    <rect x="958" y="552" width="165" height="34" rx="9"/>
+    <rect x="1140" y="552" width="165" height="34" rx="9"/>
+  </g>
+
+  <text x="190" y="915" fill="#ffffff" font-family="IBM Plex Mono, Menlo, Monaco, monospace" font-size="54" font-weight="700" letter-spacing="2">
+    AI COURSE SCHEDULING TOOL
+  </text>
+</svg>
