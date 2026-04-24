@@ -119,15 +119,19 @@ a:hover {
   letter-spacing: 0.08em;
   text-transform: uppercase;
   text-decoration: none;
-  padding-bottom: 0.3rem;
+  padding: 0.28rem 0.52rem 0.5rem;
+  border-radius: 999px;
+  transition:
+    color 0.22s ease,
+    background-color 0.22s ease;
 }
 
 .site-nav a::after {
   content: "";
   position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
+  left: 0.52rem;
+  bottom: 0.2rem;
+  width: calc(100% - 1.04rem);
   height: 2px;
   transform: scaleX(0);
   transform-origin: left;
@@ -135,7 +139,20 @@ a:hover {
   background: linear-gradient(90deg, var(--accent-cyan), var(--accent-blue));
 }
 
+.site-nav a:hover {
+  color: #163a45;
+}
+
 .site-nav a:hover::after {
+  transform: scaleX(1);
+}
+
+.site-nav a[aria-current="page"] {
+  color: #102d36;
+  background: rgba(116, 168, 255, 0.1);
+}
+
+.site-nav a[aria-current="page"]::after {
   transform: scaleX(1);
 }
 
