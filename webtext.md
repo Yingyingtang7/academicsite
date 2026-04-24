@@ -129,6 +129,7 @@ Page 5
 Service  
 University service, peer review, lab leadership, funded projects, and honors.  
 Service and professional engagement  
+Guest Co-Editor, Special Issue of Programmatic Perspectives, “Durable Skills for the AI-Altered Workplace: Rhetorical Agency, Human Judgment, and Ethical Care in TPC Programs” (with Derek G. Ross, forthcoming 2026/2027). CFP: https://docs.google.com/document/d/1rFxKTXmx0uX9_1t96iVwbvskyDgK7tMR/edit?usp=sharing  
 AI Faculty Fellow, SHSU Center for Innovation in Teaching and Learning (2025–2026): university-wide guidance on ethical AI use, syllabus policies, and AI pedagogy resources; speaker/panelist for faculty development events.  
 Manuscript reviewer, Prompt (2025).  
 Proposal reviewer, SIGDOC (2024).  
@@ -184,4 +185,3 @@ A dynamic, data-driven event calendar I built for our university’s multi-day A
 Technical Communication Program Promotional Site  
 https://yingyingtang7.github.io/datavisualization-example/index.html  
 A program introduction site I created to present the Technical Communication certificate and minor pathways at Sam Houston State University.
-
