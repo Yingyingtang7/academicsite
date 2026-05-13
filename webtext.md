@@ -48,7 +48,6 @@ Dissertation (PhD, Auburn University; May 2024): \[Un\]Ethical algorithms: The S
 Algorithmic rhetoricAutomated writing technologiesEthics & social justiceUX & research designAI literacy & pedagogy  
 Grants  
 Principal Investigator (PI): “Smart Course Scheduling: An Interdisciplinary AI Initiative for Small Academic Programs”, CHSS Research Grant, Sam Houston State University (2026, funded: $5,000)  
-Principal Investigator (PI): “Bridging the AI Divide: First-Gen Students and Community Futures”, Spencer Foundation Vision Grant (2025–2026, proposal submitted/under review: $61,834)  
 Principal Investigator (PI): “Bridging the AI Divide: AI Literacy for Educational Equity and Community Futures”, CCCC Research Initiative (2025–2026, proposal submitted/under review: $8,000)  
 Principal Investigator (PI): “Navigating the Ethical Use of AI Writing Tools in Online Writing Classroom”, GSOLE Research Grant (2024, funded: $1,000)  
 Principal Investigator (PI): “Revolutionizing Writing: A Case Study on the Use of Automated Writing Technologies in Business”, C. R. Anderson Research Fund, Association for Business Communication (2021–2023, funded: $2,952.70)  
@@ -56,6 +55,7 @@ Co-Editor, North Carolina Charter School Program (CSP) Grant, NC ACCESS Program 
 Forthcoming  
 Tang, Y., Chen, J. (Forthcoming 2026). Exploring Student Collaboration with AI in Technical and Professional Communication: Ethical and Innovative Practices. Communication Design Quarterly (special issue; accepted).  
 Tang, Y. (Forthcoming 2026). Beyond automation: Designing for accessibility and trust in AI-supported legal assistance. In G. Getto & B. Vance (Eds.), AI in Technical Communication: Emerging Technologies and Pedagogies. Routledge.  
+Tang, Y. (Forthcoming 2027). Editing with Purpose: Teaching Rhetorical Awareness through Community-based Projects. Prompt: A Journal of Academic Writing Assignments.  
 Tang, Y., & Chen, J. (Forthcoming 2027). “We’re still figuring it out”: Ethics, policies, and the everyday work of teaching writing with AI. In J. Jiang, B. Lucia, & M. Vetter (Eds.), Data-driven approaches to generative AI and writing research. WAC Clearinghouse.  
 Tang, Y. (Forthcoming 2027). A case study of AI-supported scheduling in a small TPC program. In K. A. Ilyasova & S. Williams (Eds.), Preparing for (Almost) Everything: A Practical Guide to Tech Comm Budgets, Staffing, and Curriculum Development. Utah State University Press / University Press of Colorado.  
 Peer-reviewed articles & book chapters  
