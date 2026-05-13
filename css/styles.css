@@ -760,6 +760,16 @@ li h3 + p {
   padding-top: 1.1rem;
 }
 
+.evals-subheading {
+  display: block;
+  margin-top: 0.28rem;
+  color: #b85c48;
+  font-size: 0.88rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  line-height: 1.4;
+}
+
 .evals-note {
   margin-top: 0;
   color: var(--text-faint);
@@ -823,6 +833,13 @@ li h3 + p {
   border-color: rgba(19, 133, 74, 0.44);
   background: linear-gradient(160deg, rgba(221, 250, 233, 0.98), rgba(194, 240, 216, 0.95));
   box-shadow: 0 0 0 2px rgba(55, 170, 106, 0.16);
+}
+
+.eval-score-value-50 {
+  color: #0b5a36;
+  border-color: rgba(12, 128, 69, 0.46);
+  background: linear-gradient(160deg, rgba(224, 251, 235, 0.99), rgba(190, 239, 212, 0.96));
+  box-shadow: 0 0 0 2px rgba(47, 170, 100, 0.18);
 }
 
 .eval-score-term {
