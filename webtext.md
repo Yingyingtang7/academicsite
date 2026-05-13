@@ -83,20 +83,28 @@ Tang, Y. & Caitlin, L. (2017). Crafting User Personas for Enhancing UX Insights.
 Page 4  
 Teaching  
 Courses taught across technical and professional communication, UX research and design, AI literacy and writing, composition, and document design.  
-Most recent student evaluations (Fall 2025\)  
-All evaluations in this section are from Fall 2025\.   
-ENGL 3330 Introduction to Technical Writing (in person)  
+Most recent student evaluations (Summer 2025 to Spring 2026\)  
+ENGL 3331 (01): AI Writing for Communities  
+Student evaluation: 4.6 / 5.0 (Spring 2026\)  
+Professor Tang challenged me to rethink the way I interacted with AI for the better. Her course was well structured and thoughtfully planned, and her feedback on assignments were very helpful.  
+Thank you for teaching this course, Dr. Tang. My use of AI has improved exponentially. I have learned to work with it instead of it simply being a refining tool. I'm walking away with not only a much better understanding of how to use AI in my real life but with a renewed hope and confidence in my own future with the help of AI as a backing as a "Jarvis" to my "Tony Stark" which feels a bit cringy to say but it feels true. When I boot up my computer and I have assignments to do or work to finish, I am confident in my ability to do handle those tasks alongside AI instead of handling them on my own and then passing it to AI. It has become a partner instead of a tool.  
+This has been one of the best courses I've taken and I couldn't believe it when I saw that you said that this was your first time teaching this course. Incredible job\!  
+ENGL 3330 Introduction to Technical Writing  
 Student evaluation: 4.6 / 5.0 (Fall 2025\)  
 Dr. Tang did a great job teaching this course this semester. Wonderful class, truly enjoyed the skill building and new insights into the field of Tech Com...  
 She was so sweet\! Loved how she would do Kahoots every class and provide prizes for us\! Great class\! I would recommend other students to take this class\!  
 Miss Yingying Tang was such an incredible professor this semester. All of her lectures were very interesting and she was very hands on when it came to our group projects. I loved the way she integrated what we studied into our assignments.  
 One of if not the sweetest professors I've ever had, I had the amazing pleasure of being in the classroom with her, and she was just wonderful. She consistently brought joy and happiness into the classroom with her, so it was always helpful to see her when having a bad day, would 10000%% take professor Tang again. She's the best\!\!\!\!  
-TCOM 5385 User Experience Research and Design (online)  
+TCOM 5385 User Experience Research and Design  
 Student evaluation: 4.9 / 5.0 (Fall 2025\)  
 The videos made by our professor at the beginning of each week greatly helped with my understanding of the course expectations.  
 Great course load with material that directly translates to our learning. The instruction is very helpful in all aspects of the class.  
 This course was highly engaging, well-organized, reasonably paced, and a great learning experience.  
 I really liked the layout Dr. Tang setup for the course on Blackboard. It was very clear, easy to use, and easy to understand. The assignments felt well thought out and planned and were scheduled in a way that made sense--started off small and allowed us to "dip our toes" into UX with the product analysis then the heuristic review, etc. Likewise, having the heuristic review be over the website that would be the focus of our group project was so smart and very helpful. While it was great to receive the list of books for the course two weeks in advance, the reading schedule for the first week or two would have been helpful for anyone who wanted to start working ahead to help manage and balance the semester's workload. Overall, a great course and an excellent professor\!  
+ENGL 3330: Intro to Technical Writing  
+Student evaluation: 5.0 / 5.0 (Summer 2025\)  
+Great course and amazing professor\!  
+Dr. Tang is a wonderful prof. She send weekly emails that are very encouraging and keeps you on track for sure. She grades fairly and gives wonderful feedback. She is very lovely and makes navigating the online class easy and straightforward. I strongly recommend her class to anyone taking it.  
 Sam Houston State University  
 ENGL 3331 AI Writing for Communities  
 Online: Spring 2026 (1 section)  
@@ -120,10 +128,6 @@ An undergraduate course building foundations in writing and research, with rheto
 ENGL 1120 Composition II  
 In-person: Spring 2020 (2 sections) • Online asynchronous: Spring 2023, Fall 2023 (3 sections)  
 An advanced undergraduate course in academic research writing, including annotated bibliographies, literature reviews, research proposals, and a final argumentative research paper.  
-North Carolina State University  
-ENG 314 Technical Document Design and Editing (Guest lectures)  
-In-person: 2016–2017 (2 sections)  
-Guest lectures focused on UX design and content strategy, including content audits and usability testing, in an advanced undergraduate course for technical communication majors.
 
 Page 5  
 Service  
