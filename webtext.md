@@ -47,8 +47,8 @@ My work centers on algorithmic rhetoric; the digital rhetoric of emerging techno
 Dissertation (PhD, Auburn University; May 2024): \[Un\]Ethical algorithms: The Social Justice Dilemma of Automated Writing Technologies  
 Algorithmic rhetoricAutomated writing technologiesEthics & social justiceUX & research designAI literacy & pedagogy  
 Grants  
-Principal Investigator (PI): “Smart Course Scheduling: An Interdisciplinary AI Initiative for Small Academic Programs”, CHSS Research Grant, Sam Houston State University (2026, funded: $5,000)  
 Principal Investigator (PI): “Bridging AI Literacy and Community Engagement: An AI Writing Pedagogy for SHSU Students,” AI Grant, Focus Area 1: Pedagogy Innovation, CHSS, Sam Houston State University (2026, funded: $6,000)  
+Principal Investigator (PI): “Smart Course Scheduling: An Interdisciplinary AI Initiative for Small Academic Programs”, CHSS Research Grant, Sam Houston State University (2026, funded: $5,000)  
 Principal Investigator (PI): “Bridging the AI Divide: AI Literacy for Educational Equity and Community Futures”, CCCC Research Initiative (2025–2026, proposal submitted/under review: $8,000)  
 Principal Investigator (PI): “Navigating the Ethical Use of AI Writing Tools in Online Writing Classroom”, GSOLE Research Grant (2024, funded: $1,000)  
 Principal Investigator (PI): “Revolutionizing Writing: A Case Study on the Use of Automated Writing Technologies in Business”, C. R. Anderson Research Fund, Association for Business Communication (2021–2023, funded: $2,952.70)  
